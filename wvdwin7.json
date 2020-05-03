@@ -355,8 +355,8 @@
                     "autoUpgradeMinorVersion": true,
                     "settings": {
                             "fileUris": [
-                                    "[concat(parameters('baseUri'),'Microsoft.RDInfra.WVDAgent.Installer-x64-1.0.1288.2700.msi')]",
-                                    "[concat(parameters('baseUri'),'Microsoft.RDInfra.WVDAgentManager.Installer-x64-1.0.1288.2700.msi')]",                                                                                                                        
+                                    "[concat(parameters('baseUri'),'Microsoft.RDInfra.WVDAgent.Installer-x64-1.0.1932.4800.msi')]",
+                                    "[concat(parameters('baseUri'),'Microsoft.RDInfra.WVDAgentManager.Installer-x64-1.0.1932.4800.msi')]",                                                                                                                        
                                     "[concat(parameters('baseUri'),'RdAgentInstall.ps1')]"
                                     ],
                             "timestamp":"[parameters('timestamp')]"
